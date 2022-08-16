@@ -15,7 +15,6 @@ Me considero una persona responsable, proactiva, con muchas ganar de aprender y 
 [![Python](https://img.shields.io/badge/Python-4285F4?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![R](https://img.shields.io/badge/R-4479A1?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C#-F7DF1E?style=for-the-badge&logo=c#&logoColor=white&labelColor=101010)]()
 
 ## Encuéntrame en:
 
