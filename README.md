@@ -18,15 +18,15 @@ Me considero una persona responsable, proactiva, con muchas ganar de aprender y 
 
 ## Encuéntrame en:
 
-[YouTube](https://www.youtube.com/channel/UCg2u_oeoLUSNVrbf46KWy6Q)
+[YouTube](https://www.youtube.com/channel/UCg2u_oeoLUSNVrbf46KWy6Q)</br>
 [Twitch](https://www.twitch.tv/soy_defnis)
 </br>
-[Twitter](https://twitter.com/jwaiman243)
-[Instagram](https://instagram.com/josewaiman)
-[TikTok](https://tiktok.com/@soy_defnis)
-[Facebook](https://www.facebook.com/jose.waiman)
+[Twitter](https://twitter.com/jwaiman243)</br>
+[Instagram](https://instagram.com/josewaiman)</br>
+[TikTok](https://tiktok.com/@soy_defnis)</br>
+[Facebook](https://www.facebook.com/jose.waiman)</br>
 </br>
-[![LinkedIn](https://www.linkedin.com/in/josé-waiman-bba61757/)
+[LinkedIn](https://www.linkedin.com/in/josé-waiman-bba61757/)</br>
 
 
 
