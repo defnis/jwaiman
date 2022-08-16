@@ -1,4 +1,4 @@
-# ¡Hola! Mi nombre es Jose Waiman 👋. (Hello!! Mi name is Jose Waiman)
+# ¡Hola! Mi nombre es Jose Waiman 👋.
 (Hello!! Mi name is Jose Waiman)
 
 ### Estudiante de Full Stack Developer con Reac JS e Inteligencia Artificial. 
