@@ -1,15 +1,12 @@
-# Hola, mi nombre el Jose Waiman 👋
+# Hola, mi nombre es Jose Waiman 👋
 ### Estudiante de Full Stack Developer with Reac JS e Inteligencia Artificial
 
-[![YouTube Channel Subscribers]](https://www.youtube.com/channel/UCg2u_oeoLUSNVrbf46KWy6Q)
-[![Discord]](https://defnis#3884.com/discord)
-[![Twitter Follow]](https://twitter.com/jwaiman243)
-![LinkedIn Followers](https://www.linkedin.com/in/josé-waiman-bba61757/)
+
 
 En 2014 inicie mi carrera profesional como Licenciado en Turismo. 
 
 Trabaje por algo mas de 10 años en Patagonia Argentina. Luego de la pandemia del año 2020, retorne a mi ciudad natal e inicie el hermosa comino de Programacion. 
-Durante mis estudios he iniciado maquetado web (HTML%, CSS3, Javascript), C# orientado a Videojuegos, diversos cursos de logica de programacion, y actualmente estudiando Python, R y MySQL, orientado a Base de datos. 
+Durante mis estudios he iniciado maquetado web (HTML5, CSS3, Javascript), C# orientado a Videojuegos, diversos cursos de logica de programacion, y actualmente estudiando Python, R y MySQL, orientado a Base de datos. 
 
 Me considero una persona responsable, proactiva, con muchas ganar de aprender y compartir conocimiento.
 
@@ -36,48 +33,17 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-[![YouTube](https://www.youtube.com/channel/UCg2u_oeoLUSNVrbf46KWy6Q)
-[![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
+[YouTube](https://www.youtube.com/channel/UCg2u_oeoLUSNVrbf46KWy6Q)
+[Twitch](https://www.twitch.tv/soy_defnis)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mouredev)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/mouredev)
-[![TikTok](https://img.shields.io/badge/TikTok-@mouredev-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@mouredev)
-[![Facebook](https://img.shields.io/badge/Facebook-@mouredev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/mouredev)
+[Twitter](https://twitter.com/jwaiman243)
+[Instagram](https://instagram.com/josewaiman)
+[TikTok](https://tiktok.com/@soy_defnis)
+[Facebook](https://www.facebook.com/jose.waiman)
 </br>
-[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://mouredev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
+[![LinkedIn](https://www.linkedin.com/in/josé-waiman-bba61757/)
 
-## Mis guías de estudio iOS y Android:
-[![Apple](https://img.shields.io/github/stars/mouredev/Apple-Developer-Roadmap?label=Apple%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Apple-Developer-Roadmap)
-[![Android](https://img.shields.io/github/stars/mouredev/Android-Developer-Roadmap?label=Android%20Developer%20Roadmap&style=social)](https://github.com/mouredev/Android-Developer-Roadmap)
 
-## Los retos de programación de la comunidad:
-
-![https://retosdeprogramacion.com](./mouredev_retos_programacion.png)
-
-### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
-
-Índice en GitHub
-
-[![GitHub Code Challenges](https://img.shields.io/github/stars/mouredev/Code-Challenges?label=Retos%20de%20programacion&style=social)](https://github.com/mouredev/Code-Challenges)
-
-### Semanales
-
-Cada lunes un nuevo reto para mejorar nuestra lógica de programación.
-
-[![GitHub Weekly Kotlin](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Kotlin?label=Retos%20Semanales&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Kotlin)
-[![GitHub Weekly Swift](https://img.shields.io/github/stars/mouredev/Weekly-Challenge-2022-Swift?label=Retos%20Semanales%20en%20Swift&style=social)](https://github.com/mouredev/Weekly-Challenge-2022-Swift)
-
-### Mensuales
-
-Cada mes una nueva aplicación para añadir a nuestro portfolio.
-
-[![GitHub Monthly App](https://img.shields.io/github/stars/mouredev/Monthly-App-Challenge-2022?label=Retos%20Mensuales&style=social)](https://github.com/mouredev/Monthly-App-Challenge-2022)
-
-[![Twitch](https://img.shields.io/badge/Twitch-Challenge_live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Challenge_chat_channel-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 
 ## ⏳Twitimer: El proyecto de la comunidad:
 ![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
@@ -85,9 +51,6 @@ Cada mes una nueva aplicación para añadir a nuestro portfolio.
 [![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Proyecto%20iOS&style=social)](https://github.com/mouredev/Twitimer-iOS)
 [![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Proyecto%20Android%20&style=social)](https://github.com/mouredev/Twitimer-Android)
 
-Twitimer es una aplicación gratuita **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** y **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** que ha sido desarrollada para ayudar a los usuarios de Twitch, pero sobre todo pensando en generar contenido educativo para toda la comunidad de programadores interesados en el mundo del desarrollo de apps para dispositivos móviles. Tienes todo el código público para su descarga.
-
-[![Web](https://img.shields.io/badge/Twitimer.com-Web_oficial-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
 
 ## Algunos vídeos en YouTube:
 
