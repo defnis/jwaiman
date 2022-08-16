@@ -96,7 +96,7 @@ switch ($_GET['accion']) {
 Encontrar e imprimir el menor de los números pares. La cantidad de elementos leídos es 100.
 
 Console.WriteLine();
-Console-WriteLine("se liberan 100 números y se devolverán los primeros padres y el menor número par");
+Console.WriteLine("se liberan 100 números y se devolverán los primeros padres y el menor número par");
 // Código de números aleatorios --> Random RND = New Random(); - (dentro de l bucle) - RND.Next(0,1000);
 Random RND = new Random();
 int[] num = new int[100];
