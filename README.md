@@ -66,7 +66,7 @@ a = A()
 print(a.cuenta)
 print(a.contador)
 ```
-###Codigo PHP
+### Codigo PHP
 ```php
 header('Content-type: application/json');
 
@@ -89,7 +89,7 @@ switch ($_GET['accion']) {
         break;
 }
 ```
-###Codigo C#
+### Codigo C#
 ```c#
 
 // 4. Ingresar por teclado día uno una serie de números. 
