@@ -1,17 +1,14 @@
-# ¡Hola! Mi nombre es Jose Waiman 👋.
-(Hello!! Mi name is Jose Waiman)
+# Hello!! Mi name is Jose Waiman.  👋
 
-### Estudiante de Full Stack Developer con Reac JS e Inteligencia Artificial. 
-(Full Stack Developer student with Reac JS and Artificial Intelligence)
+### Full Stack Developer student with Reac JS and Artificial Intelligence
 
-En 2014 inicie mi carrera profesional como Licenciado en Turismo. 
+In 2014, I started my professional career as a Bachelor of Tourism.
 
-Trabaje por algo mas de 10 años en Patagonia Argentina. Luego de la pandemia del año 2020, retorne a mi ciudad natal e inicie el hermoso camino de Programacion. 
-Durante mis estudios he iniciado maquetado web **(HTML5, CSS3, Javascript)**, C# orientado a Videojuegos, diversos cursos de logica de programacion, y actualmente estudiando **Python, R y MySQL**, orientado a Base de datos. 
+I worked for more than 10 years in Patagonia Argentina. After the pandemic of the year 2020, I returned to my hometown and started the beautiful path of Programming. During my studies I have started web layout (HTML5, CSS3, Javascript), C# oriented to Videogames, various programming logic courses, and currently studying Python, R and MySQL, oriented to Databases.
 
-Me considero una persona responsable, proactiva, con muchas ganar de aprender y compartir conocimiento.
+I consider myself a responsible, proactive person, with many gains from learning and sharing knowledge.
 
-## Tecnologías:
+## Technologies:
 [![HTML5](https://img.shields.io/badge/HTML5-ef8952?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/JavaScript-63ecbe?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -19,9 +16,9 @@ Me considero una persona responsable, proactiva, con muchas ganar de aprender y 
 [![R](https://img.shields.io/badge/R-4479A1?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-ec6381?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()</br>
 
-## Muestra de Codigo
+## Code Sample
 
-#### Codigo Javascript
+#### Javascript Code
 
 ```javascript
 const addZeros = n =>{
@@ -38,7 +35,7 @@ const actualizarHora = ()=>{
 }
 ```
 
-#### Codigo Python
+#### Python Code
 
 ```python
 import pandas as pd
@@ -69,7 +66,7 @@ a = A()
 print(a.cuenta)
 print(a.contador)
 ```
-#### Codigo PHP
+#### PHP Code
 ```php
 header('Content-type: application/json');
 
@@ -92,7 +89,7 @@ switch ($_GET['accion']) {
         break;
 }
 ```
-#### Codigo C#
+#### C# Code
 ```c#
 
 // 4. Ingresar por teclado día uno una serie de números. 
@@ -119,7 +116,7 @@ Console.WriteLine("El menos numero par es: "+ parMasChico);
 Console.ReadKey();
 ```
 
-## Encuéntrame en:
+## Meet me at:
 
 [YouTube](https://www.youtube.com/channel/UCg2u_oeoLUSNVrbf46KWy6Q), [Twitch](https://www.twitch.tv/soy_defnis), [Twitter](https://twitter.com/jwaiman243), [Instagram](https://instagram.com/josewaiman), [TikTok](https://tiktok.com/@soy_defnis), [Facebook](https://www.facebook.com/jose.waiman), [LinkedIn](https://www.linkedin.com/in/josé-waiman-bba61757/)
 
