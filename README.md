@@ -18,7 +18,7 @@ Me considero una persona responsable, proactiva, con muchas ganar de aprender y 
 
 ## Muestra de Codigo
 
-### Codigo Javascript
+#### Codigo Javascript
 
 ```javascript
 const addZeros = n =>{
@@ -35,7 +35,7 @@ const actualizarHora = ()=>{
 }
 ```
 
-### Codigo Python
+#### Codigo Python
 
 ```python
 import pandas as pd
@@ -66,7 +66,7 @@ a = A()
 print(a.cuenta)
 print(a.contador)
 ```
-### Codigo PHP
+#### Codigo PHP
 ```php
 header('Content-type: application/json');
 
@@ -89,7 +89,7 @@ switch ($_GET['accion']) {
         break;
 }
 ```
-### Codigo C#
+#### Codigo C#
 ```c#
 
 // 4. Ingresar por teclado día uno una serie de números. 
@@ -115,7 +115,6 @@ for (int i = 0; i <num.Length; i++){
 Console.WriteLine("El menos numero par es: "+ parMasChico);
 Console.ReadKey();
 ```
-
 
 ## Encuéntrame en:
 
