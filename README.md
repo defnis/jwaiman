@@ -18,12 +18,12 @@ Me considero una persona responsable, proactiva, con muchas ganar de aprender y 
 
 ## Muestra de Codigo
 
-# Codigo Javascript
+### Codigo Javascript
 
 ```javascript
 const addZeros = n =>{
     if(n.toString().length < 2) return "0".concat(n);
-    return n;  //  Le digo, si el numero de 1 cifra, concatenar 0, Ejem: 01, 03, 06. Si el numero es de 2 cifras solo impriir ese numero.
+    return n;  //  Le digo, si el numero de 1 cifra, concatenar 0, 
 }
 
 const actualizarHora = ()=>{
@@ -47,6 +47,76 @@ rfc.str.match(r'\w{4}\d{6}')
 rfc
 
 ```
+```python
+class A():
+    def __init__(self):
+        self.cuenta = 0 
+        self.contador = 0
+    
+    @property  #Le decimos a python que llamo a un metodo GET. 
+    def cuenta(self):
+        return self._cuenta
+    
+    @property
+    def contador(self):
+        return self._contador
+
+
+a = A()
+print(a.cuenta)
+print(a.contador)
+```
+###Codigo PHP
+```php
+header('Content-type: application/json');
+
+require("conexion.php");           // Estoy importando los datos de mi archivo
+$conexion = regresarConexion();    // Y aca los estoy guardando.
+
+switch ($_GET['accion']) {
+    case 'listar':
+        $datos = mysqli_query($conexion, "select id, nombre, precio from articulos")
+        $resultado = mysqli_fetch_all($datos, MYSQLI_ASSOC);
+        echo json_encore($resultado);
+        break;
+    case 'agregar':
+        $respuesta = mysqli_query($conexion, "insert into articulos (nombre, precio) values ('$_POST[nombre]','$_POST[precio]')");
+        echo json_encode($respuesta); //Esto es para convertirlo en json.
+        break;
+    case 'borrar':
+        $respuesta = mysqli_query($conexion, "delete from articulos where id=$_GET[id]");
+        echo json_encode($respuesta);
+        break;
+}
+```
+###Codigo C#
+```c#
+
+// 4. Ingresar por teclado día uno una serie de números. 
+Encontrar e imprimir el menor de los números pares. La cantidad de elementos leídos es 100.
+
+Console.WriteLine();
+Console-WriteLine("se liberan 100 números y se devolverán los primeros padres y el menor número par");
+// Código de números aleatorios --> Random RND = New Random(); - (dentro de l bucle) - RND.Next(0,1000);
+Random RND = new Random();
+int[] num = new int[100];
+int parMasChico = 0;
+for (int i=0; i < num.Length; i++){
+    num[1] =RND.Next(0, 1000);
+}
+parMasChico = num.Max();
+for (int i = 0; i <num.Length; i++){
+    if ((num[1]%2) == 0){
+        if (num[i] < parMasChico){
+            parMasChico = num.Min();
+        }    
+    } Console.WriteLine("Numero par: " + num[1]);
+}
+Console.WriteLine("El menos numero par es: "+ parMasChico);
+Console.ReadKey();
+```
+
+
 ## Encuéntrame en:
 
 [YouTube](https://www.youtube.com/channel/UCg2u_oeoLUSNVrbf46KWy6Q), [Twitch](https://www.twitch.tv/soy_defnis), [Twitter](https://twitter.com/jwaiman243), [Instagram](https://instagram.com/josewaiman), [TikTok](https://tiktok.com/@soy_defnis), [Facebook](https://www.facebook.com/jose.waiman), [LinkedIn](https://www.linkedin.com/in/josé-waiman-bba61757/)
