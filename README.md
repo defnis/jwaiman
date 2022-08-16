@@ -1,9 +1,6 @@
-# ¡Hola! Mi nombre es Jose Waiman 👋
-## (Hello!! Mi name is Jose Waiman)
+# ¡Hola! Mi nombre es Jose Waiman 👋. (Hello!! Mi name is Jose Waiman)
 
-### Estudiante de Full Stack Developer con Reac JS e Inteligencia Artificial
-#### (Full Stack Developer student with Reac JS and Artificial Intelligence)
-
+### Estudiante de Full Stack Developer con Reac JS e Inteligencia Artificial. (Full Stack Developer student with Reac JS and Artificial Intelligence)
 
 En 2014 inicie mi carrera profesional como Licenciado en Turismo. 
 
