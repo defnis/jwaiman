@@ -14,7 +14,7 @@ Me considero una persona responsable, proactiva, con muchas ganar de aprender y 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-63e5ec?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![R](https://img.shields.io/badge/R-4479A1?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-ec6381?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()<br>
+[![MySQL](https://img.shields.io/badge/MySQL-ec6381?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()</br>
 
 ## Muestra de Codigo
 
@@ -115,7 +115,8 @@ for (int i = 0; i <num.Length; i++){
 Console.WriteLine("El menos numero par es: "+ parMasChico);
 Console.ReadKey();
 ```
-<br>
+
+
 ## Encuéntrame en:
 
 [YouTube](https://www.youtube.com/channel/UCg2u_oeoLUSNVrbf46KWy6Q), [Twitch](https://www.twitch.tv/soy_defnis), [Twitter](https://twitter.com/jwaiman243), [Instagram](https://instagram.com/josewaiman), [TikTok](https://tiktok.com/@soy_defnis), [Facebook](https://www.facebook.com/jose.waiman), [LinkedIn](https://www.linkedin.com/in/josé-waiman-bba61757/)
