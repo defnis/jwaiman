@@ -1,4 +1,4 @@
-# Hello!! Mi name is Jose Waiman.  👋
+# Hello!! My name is Jose Waiman.  👋
 
 ### Full Stack Developer student with Reac JS and Artificial Intelligence
 
