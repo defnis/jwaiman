@@ -37,6 +37,103 @@ const actualizarHora = ()=>{
 }
 ```
 
+### React Code
+
+```react
+import React from "react";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+import Header from './components/layout/Header';
+import Nav from './components/layout/Nav';
+import Footer from './components/layout/Footer';
+
+import Contacto from './pages/Contacto';
+import Home from './pages/Home';
+import Novedades from './pages/Novedades';
+import Nosotros from './pages/Nosotros';
+import LoginForm from "./pages/Loginform";
+
+function App() {
+  return (
+    <div className="App">
+        <Header />
+
+        <BrowserRouter>
+            <Nav />
+            <Routes>
+              <Route path="/" element={<Home />}/>
+              <Route path="/nosotros" element={<Nosotros />}/>
+              <Route path="/novedades" element={<Novedades />}/>
+              <Route path="/contacto" element={<Contacto />}/>
+              <Route path="/loginform" element={<LoginForm />}/>
+            </Routes>
+        </BrowserRouter>
+        <Footer />
+    </div>
+  );
+}
+
+export default App;
+```
+
+### Node Code
+```node
+var createError = require('http-errors');
+var express = require('express');
+var path = require('path');
+var cookieParser = require('cookie-parser');
+var logger = require('morgan');
+var fileupload = require('express-fileupload');
+
+require('dotenv').config();
+var session = require('express-session');
+
+var indexRouter = require('./routes/index');
+var usersRouter = require('./routes/users');
+var loginRouter = require('./routes/admin/login');
+var adminRouter = require('./routes/admin/novedades');
+
+var app = express();
+
+var nosotrosRouter = require('./routes/nosotros');
+app.use('./nosotros', nosotrosRouter);
+
+// view engine setup
+app.set('views', path.join(__dirname, 'views'));
+app.set('view engine', 'hbs');
+
+app.use(logger('dev'));
+app.use(express.json());
+app.use(express.urlencoded({ extended: false }));
+app.use(cookieParser());
+app.use(express.static(path.join(__dirname, 'public')));
+
+app.use(session({
+  secret: 'Pw2021awqyeudj',
+  cookie: {maxAge:null},
+  reserve: false,
+  saveUninitialized: true
+}))
+
+secured = async(req, res, next) => {
+  try {
+    console.log(req.session.id.usuario);
+    if (req.session.id.usuario) {
+      next();
+    } else {
+      res.redirect('/admin/login');
+    } //Cierro else
+  } catch (error) {
+    console.log(error);
+  } //Cierro Catch
+} //Cierro Secured
+
+app.use(fileupload ({
+  useTempFiles: true,
+  tempFileDir: '/tmp/'
+}));
+```
+
 #### Python Code
 
 ```python
