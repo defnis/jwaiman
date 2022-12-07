@@ -13,7 +13,7 @@ I consider myself a responsible, proactive person, with many gains from learning
 [![CSS3](https://img.shields.io/badge/CSS3-63ecbe?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-F788eE?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Node](https://img.shields.io/badge/Node-17DF9E?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=101010)]()
+[![Node](https://img.shields.io/badge/Node-17DF9E?style=for-the-badge&logo=node&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-63e5ec?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![R](https://img.shields.io/badge/R-4479A1?style=for-the-badge&logo=R&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-ec6381?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()</br>
@@ -37,7 +37,7 @@ const actualizarHora = ()=>{
 }
 ```
 
-### React Code
+#### React Code
 
 ```react
 import React from "react";
@@ -76,7 +76,7 @@ function App() {
 export default App;
 ```
 
-### Node Code
+#### Node Code
 ```node
 var createError = require('http-errors');
 var express = require('express');
