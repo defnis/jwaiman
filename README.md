@@ -1,6 +1,6 @@
 # Hello!! My name is Jose Waiman.  👋
 
-### Full Stack Developer student with Reac JS and Artificial Intelligence
+### Full Stack Developer student with React JS and Artificial Intelligence
 
 In 2014, I started my professional career as a Bachelor of Tourism.
 
