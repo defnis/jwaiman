@@ -1,8 +1,8 @@
 # Hello!! My name is Jose Waiman.  👋
 
-### Full Stack Developer student with React JS and Artificial Intelligence
+### Full Stack Developer student with React JS and Artifitial Intelligence
 
-In 2014, I started my professional career as a Bachelor of Tourism.
+In 2014, I started my professional career is Tourism.
 
 I worked for more than 10 years in Patagonia Argentina. After the pandemic of the year 2020, I returned to my hometown and started the beautiful path of Programming. During my studies I have started web layout (HTML5, CSS3, Javascript, React and Node), C# oriented to Videogames, various programming logic courses, and currently studying Python, R and MySQL, oriented to Databases.
 
