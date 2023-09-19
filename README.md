@@ -20,23 +20,6 @@ I consider myself a responsible, proactive person, with many gains from learning
 
 ## Code Sample
 
-#### Javascript Code
-
-```javascript
-const addZeros = n =>{
-    if(n.toString().length < 2) return "0".concat(n);
-    return n;  //  Le digo, si el numero de 1 cifra, concatenar 0, 
-}
-
-const actualizarHora = ()=>{
-    const time = new Date();
-    let hora = time.getHours();
-    let minutos = time.getMinutes();
-    let segundos = time.getSeconds();
-    console.log(segundos)
-}
-```
-
 #### React Code
 
 ```react
@@ -165,55 +148,7 @@ a = A()
 print(a.cuenta)
 print(a.contador)
 ```
-#### PHP Code
-```php
-header('Content-type: application/json');
 
-require("conexion.php");           // Estoy importando los datos de mi archivo
-$conexion = regresarConexion();    // Y aca los estoy guardando.
-
-switch ($_GET['accion']) {
-    case 'listar':
-        $datos = mysqli_query($conexion, "select id, nombre, precio from articulos")
-        $resultado = mysqli_fetch_all($datos, MYSQLI_ASSOC);
-        echo json_encore($resultado);
-        break;
-    case 'agregar':
-        $respuesta = mysqli_query($conexion, "insert into articulos (nombre, precio) values ('$_POST[nombre]','$_POST[precio]')");
-        echo json_encode($respuesta); //Esto es para convertirlo en json.
-        break;
-    case 'borrar':
-        $respuesta = mysqli_query($conexion, "delete from articulos where id=$_GET[id]");
-        echo json_encode($respuesta);
-        break;
-}
-```
-#### C# Code
-```c#
-
-// 4. Ingresar por teclado día uno una serie de números. 
-Encontrar e imprimir el menor de los números pares. La cantidad de elementos leídos es 100.
-
-Console.WriteLine();
-Console.WriteLine("se liberan 100 números y se devolverán los primeros padres y el menor número par");
-// Código de números aleatorios --> Random RND = New Random(); - (dentro de l bucle) - RND.Next(0,1000);
-Random RND = new Random();
-int[] num = new int[100];
-int parMasChico = 0;
-for (int i=0; i < num.Length; i++){
-    num[1] =RND.Next(0, 1000);
-}
-parMasChico = num.Max();
-for (int i = 0; i <num.Length; i++){
-    if ((num[1]%2) == 0){
-        if (num[i] < parMasChico){
-            parMasChico = num.Min();
-        }    
-    } Console.WriteLine("Numero par: " + num[1]);
-}
-Console.WriteLine("El menos numero par es: "+ parMasChico);
-Console.ReadKey();
-```
 
 ## Meet me at:
 
