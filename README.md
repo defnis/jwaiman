@@ -152,7 +152,7 @@ print(a.contador)
 
 ## Meet me at:
 
-[YouTube](https://www.youtube.com/channel/UCg2u_oeoLUSNVrbf46KWy6Q), [Twitch](https://www.twitch.tv/soy_defnis), [Twitter](https://twitter.com/jwaiman243), [Instagram](https://instagram.com/josewaiman), [TikTok](https://tiktok.com/@soy_defnis), [Facebook](https://www.facebook.com/jose.waiman), [LinkedIn](https://www.linkedin.com/in/josé-waiman-bba61757/)
+[ X ](https://twitter.com/jwaiman243), [Instagram](https://instagram.com/josewaiman), [LinkedIn](https://www.linkedin.com/in/josé-waiman-bba61757/)
 
 
 
